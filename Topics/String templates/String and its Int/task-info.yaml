@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // write here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20645#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 4. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    12
+    Correct output:
+    The obtained value is 12 and its Int representation after division on 2 is 6
+
+    Your code output:
+    6
+  time: "Wed, 07 Dec 2022 20:22:14 UTC"
+record: -1
